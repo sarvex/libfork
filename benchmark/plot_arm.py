@@ -43,7 +43,7 @@ plt.ylabel('Speedup 2T[2]/T[n]')
 
 plt.legend()
 
-plt.savefig(f"benchmark/figs/arm.svg", format='svg')
+plt.savefig("benchmark/figs/arm.svg", format='svg')
 
 plt.show()
 
